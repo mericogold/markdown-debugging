@@ -4,7 +4,7 @@ CREDITS.md is an auto-generated file to recognize the contributors who have made
 
 ## Committers [View All](https://merico.build/projects/repository/overview?gitUrl=git://github.com/brave/brave-browser.git)
 ### First Committers
-#### developer.a <img src="https://octodex.github.com/images/minion.png" width="80" height="80">
+#### <img src="https://octodex.github.com/images/minion.png" width="80" height="80"> developer.a 
 Joined June 15th 2015
 
 #### developer.b <img src="https://octodex.github.com/images/minion.png" width="80" height="80">
